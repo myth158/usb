@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBDemo", "USBDemo\USBDemo.csproj", "{F07F233B-B700-416B-912F-0BD51710EE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Debug|x64.ActiveCfg = Debug|x64
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Debug|x64.Build.0 = Debug|x64
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Release|x64.ActiveCfg = Release|Any CPU
+		{F07F233B-B700-416B-912F-0BD51710EE05}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
